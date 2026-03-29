@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubham927930/LEETCODE/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubham927930/LEETCODE/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubham927930/LEETCODE/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
