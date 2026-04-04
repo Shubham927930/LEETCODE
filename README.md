@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubham927930/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubham927930/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shubham927930/LEETCODE/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
