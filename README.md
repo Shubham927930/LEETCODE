@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shubham927930/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham927930/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shubham927930/LEETCODE/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
