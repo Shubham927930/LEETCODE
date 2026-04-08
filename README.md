@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shubham927930/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shubham927930/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -113,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
