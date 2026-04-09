@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shubham927930/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shubham927930/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
