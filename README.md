@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubham927930/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shubham927930/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubham927930/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubham927930/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
