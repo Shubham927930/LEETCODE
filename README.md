@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shubham927930/LEETCODE/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Shubham927930/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubham927930/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shubham927930/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham927930/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Shubham927930/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Tree
 |  |
 | ------- |
