@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shubham927930/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shubham927930/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham927930/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Shubham927930/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham927930/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shubham927930/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
