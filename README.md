@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubham927930/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubham927930/LEETCODE/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shubham927930/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shubham927930/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shubham927930/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham927930/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shubham927930/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Shubham927930/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Shubham927930/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shubham927930/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shubham927930/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham927930/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Shubham927930/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shubham927930/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham927930/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shubham927930/LEETCODE/tree/master/0148-sort-list) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shubham927930/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham927930/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shubham927930/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Shubham927930/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shubham927930/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubham927930/LEETCODE/tree/master/0503-next-greater-element-ii) |
